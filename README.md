@@ -11,6 +11,8 @@ AI Red Teamer path taken from various online sources
     - https://www.khanacademy.org/math/linear-algebra
  - Basic Statistics
     - https://www.khanacademy.org/math/statistics-probability
- - Python Programming
-    - So far I haven't see a complete Python course like HackTheBox where the student will setup their environment, executing python code, manage libraries, and crearing virtual environments. 
-    - https://academy.hackthebox.com/course/preview/introduction-to-python-3
+ - Python Programming - Start with Introduction and follow along the author Al Sweigart
+    - https://automatetheboringstuff.com/
+
+## Introduction to Machine Learning
+ - https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/
