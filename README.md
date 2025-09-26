@@ -1,5 +1,5 @@
 # AI-Red-Teamer-Path
-AI Red Teamer path taken from various online sources
+AI Red Teamer path taken from various online sources, I believe that knowledge should be free and open for everyone
 
 ## Pre-requisites
  - Calculus - Reach Mastered Proficiency
