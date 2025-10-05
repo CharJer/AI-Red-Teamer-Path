@@ -1,6 +1,5 @@
 # AI Red Teamer Path
-<img width="1224" height="204" alt="AI Red Teaming" src="https://github.com/user-attachments/assets/d3d35dea-e768-4fdf-ad7e-3c35777cbf68" />
-
+<img width="1224" height="204" alt="AI Red Teamer" src="https://github.com/user-attachments/assets/0219f0d3-d5fe-4802-996b-830a93cdc444" />
 
 AI Red Teamer path taken from various online sources, I believe that knowledge should be free and open for everyone
 
