@@ -18,3 +18,6 @@ AI Red Teamer path taken from various online sources, I believe that knowledge s
 
 ## Introduction to Machine Learning
  - https://www.geeksforgeeks.org/machine-learning/introduction-machine-learning/
+
+## All the Math Needed to Know in Artificial Intelligence
+ - https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/
