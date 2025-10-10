@@ -21,3 +21,7 @@ AI Red Teamer path taken from various online sources, I believe that knowledge s
 
 ## All the Math Needed to Know in Artificial Intelligence
  - https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/
+
+## Supervised Leaning Algorithm
+ - [What is Supervised Learning Algorithm and how it works?](https://cloud.google.com/discover/what-is-supervised-learning?hl=en)
+ - 
